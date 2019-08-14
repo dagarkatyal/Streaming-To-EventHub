@@ -1,0 +1,11 @@
+C:\Users\dkatyal\source\repos\StreamData\StreamData\bin\Debug\netcoreapp2.1\StreamData.deps.json
+C:\Users\dkatyal\source\repos\StreamData\StreamData\bin\Debug\netcoreapp2.1\StreamData.runtimeconfig.json
+C:\Users\dkatyal\source\repos\StreamData\StreamData\bin\Debug\netcoreapp2.1\StreamData.runtimeconfig.dev.json
+C:\Users\dkatyal\source\repos\StreamData\StreamData\bin\Debug\netcoreapp2.1\StreamData.dll
+C:\Users\dkatyal\source\repos\StreamData\StreamData\obj\Debug\netcoreapp2.1\StreamData.csprojAssemblyReference.cache
+C:\Users\dkatyal\source\repos\StreamData\StreamData\obj\Debug\netcoreapp2.1\StreamData.csproj.CoreCompileInputs.cache
+C:\Users\dkatyal\source\repos\StreamData\StreamData\obj\Debug\netcoreapp2.1\StreamData.AssemblyInfoInputs.cache
+C:\Users\dkatyal\source\repos\StreamData\StreamData\obj\Debug\netcoreapp2.1\StreamData.AssemblyInfo.cs
+C:\Users\dkatyal\source\repos\StreamData\StreamData\bin\Debug\netcoreapp2.1\StreamData.pdb
+C:\Users\dkatyal\source\repos\StreamData\StreamData\obj\Debug\netcoreapp2.1\StreamData.dll
+C:\Users\dkatyal\source\repos\StreamData\StreamData\obj\Debug\netcoreapp2.1\StreamData.pdb
