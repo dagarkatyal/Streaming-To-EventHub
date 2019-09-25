@@ -13,7 +13,7 @@ namespace StreamData
     {
         private static EventHubClient eventHubClient;
         private const string EventHubConnectionString = "Endpoint=sb://eventhhbnamespace.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=T7N2aUpp0T5U9uRj2oX1WIFHFczw=";
-        private const string EventHubName = "cncyeventhub";
+        private const string EventHubName = "eventhub";
 
         static void Main(string[] args)
         {
